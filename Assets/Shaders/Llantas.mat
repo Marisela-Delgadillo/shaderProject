@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: ShaderFox
+  m_Name: Llantas
   m_Shader: {fileID: 4800000, guid: d81c41bbf7228c7439679aa62d87249c, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
@@ -40,7 +40,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 79796825a2ee329439a7e85260061098, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -48,7 +48,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _NormalTex:
-        m_Texture: {fileID: 2800000, guid: 928b919063a51c0419938a86dfc30832, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
@@ -60,7 +60,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _RampTex:
-        m_Texture: {fileID: 2800000, guid: 72eafed4403755643a236894e59b91cc, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
@@ -68,29 +68,29 @@ Material:
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
-    - _FallOff: 0.5
+    - _FallOff: 0
     - _GlossMapScale: 1
-    - _GlossSteps: 2.51
+    - _GlossSteps: 4
     - _Glossiness: 0.5
     - _GlossyReflections: 1
     - _Metallic: 0
     - _Mode: 0
-    - _NormalStrength: 0.3
+    - _NormalStrength: 0.66
     - _OcclusionStrength: 1
     - _Parallax: 0.02
-    - _RimPower: 7.44
+    - _RimPower: 6.38
     - _SmoothnessTextureChannel: 0
-    - _SpecularGloss: 4.88
+    - _SpecularGloss: 1
     - _SpecularHighlights: 1
-    - _SpecularPower: 1
+    - _SpecularPower: 5
     - _SrcBlend: 1
-    - _Steps: 1
+    - _Steps: 20
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
-    - _Albedo: {r: 1, g: 1, b: 1, a: 1}
+    - _Albedo: {r: 0, g: 0, b: 0, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _RimColor: {r: 0.6226415, g: 0.49274617, b: 0, a: 1}
+    - _RimColor: {r: 1, g: 0.78401434, b: 0, a: 1}
     - _SpecularColor: {r: 1, g: 1, b: 1, a: 1}
   m_BuildTextureStacks: []

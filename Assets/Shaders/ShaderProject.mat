@@ -68,29 +68,29 @@ Material:
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
-    - _FallOff: 0.406
+    - _FallOff: 0.296
     - _GlossMapScale: 1
-    - _GlossSteps: 8
+    - _GlossSteps: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
     - _Metallic: 0
     - _Mode: 0
-    - _NormalStrength: 0.01
+    - _NormalStrength: 0.12
     - _OcclusionStrength: 1
     - _Parallax: 0.02
-    - _RimPower: 5.56
+    - _RimPower: 6.38
     - _SmoothnessTextureChannel: 0
     - _SpecularGloss: 5
     - _SpecularHighlights: 1
     - _SpecularPower: 1
     - _SrcBlend: 1
-    - _Steps: 20
+    - _Steps: 43.2
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
     - _Albedo: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _RimColor: {r: 1, g: 1, b: 1, a: 1}
+    - _RimColor: {r: 1, g: 0.7287304, b: 0, a: 1}
     - _SpecularColor: {r: 1, g: 1, b: 1, a: 1}
   m_BuildTextureStacks: []
